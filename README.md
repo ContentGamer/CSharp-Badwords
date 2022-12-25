@@ -4,7 +4,7 @@ CSharp version of the NPM Javascript Badwords module
 # HOW TO USE
 
 ```C#
-using BadWordsFilter;
+using BadWordFilter;
 
 public static void Main(string[] args) {
     Filter filter = new Filter();
