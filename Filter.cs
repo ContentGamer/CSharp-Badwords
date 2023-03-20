@@ -1,5 +1,9 @@
 ﻿namespace BadWordFilter;
 
+/**
+* @author ContentGamer
+*/
+
 public class Filter
 {
     private string profanityWord = "*";
