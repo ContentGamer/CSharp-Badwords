@@ -1,5 +1,5 @@
 # CSharp-Badwords
-CSharp version of the NPM Javascript Badwords module programmed line by line
+recreation of the badwords npm package.
 
 # HOW TO USE
 
